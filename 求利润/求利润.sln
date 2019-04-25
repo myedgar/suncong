@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求利润", "求利润\求利润.vcxproj", "{97030F9C-7C16-4E2F-9119-45C79903F447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97030F9C-7C16-4E2F-9119-45C79903F447}.Debug|Win32.ActiveCfg = Debug|Win32
+		{97030F9C-7C16-4E2F-9119-45C79903F447}.Debug|Win32.Build.0 = Debug|Win32
+		{97030F9C-7C16-4E2F-9119-45C79903F447}.Release|Win32.ActiveCfg = Release|Win32
+		{97030F9C-7C16-4E2F-9119-45C79903F447}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
