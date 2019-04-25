@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用123不相同无重复的三位数", "用123不相同无重复的三位数\用123不相同无重复的三位数.vcxproj", "{06A35E0B-2CAD-40FA-8512-6B9B2DDE62BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A35E0B-2CAD-40FA-8512-6B9B2DDE62BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06A35E0B-2CAD-40FA-8512-6B9B2DDE62BC}.Debug|Win32.Build.0 = Debug|Win32
+		{06A35E0B-2CAD-40FA-8512-6B9B2DDE62BC}.Release|Win32.ActiveCfg = Release|Win32
+		{06A35E0B-2CAD-40FA-8512-6B9B2DDE62BC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
